@@ -58,7 +58,7 @@ function sendOk() {
 
 <div class="body-container">
 	<div class="body-title">
-	    <h2><span>|</span> 게시판</h2>
+	    <h2><span>|</span> 자유 게시판</h2>
 	</div>
 
 	<form name="boardForm" method="post">
